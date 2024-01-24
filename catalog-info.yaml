@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "test-12345"
-  confluencePageId: 1234
+  confluencePageId: 1638429
   confluenceSpaceId: TS2
   annotations:
     backstage.io/techdocs-ref: dir:.
