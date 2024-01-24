@@ -1,0 +1,8 @@
+site_name: "test-12345"
+site_description: 
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

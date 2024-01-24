@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test-12345"
+  confluencePageId: 1234
+  confluenceSpaceId: TS2
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
+
