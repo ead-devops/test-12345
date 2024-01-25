@@ -11,4 +11,17 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
+  projectName: Test-12345
+  moduleName: EAD
+  informationAuthor: Selva
+  modality: Devops
+  bodyParts: Brain
+  processingPurpose: Task
+  protocol: Backstage
+  algorithmType: RestAPI
+  packageType: Html
+  supportedOs: All
+  sourceCodeLanguage: TypeScript
+  developmentStatus: Inprogress
+  linkToProjectPage: Noneas of now
 
