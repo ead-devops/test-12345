@@ -2,8 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "test-12345"
-  confluencePageId: "98385"
-  confluenceSpaceId: EAD
+  confluencePageId: "2129927"
+  confluenceSpaceId: TS2
+  confluencePageTitle: "postman test 4"
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
