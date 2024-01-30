@@ -14,12 +14,12 @@ spec:
   name: Test-12345
   moduleName: EAD
   informationAuthor: Selva
-  modality: Devops
+  modality: MR
   bodyParts: Brain
   processingPurpose: Task
   protocol: Backstage
   algorithmType: RestAPI
-  packageType: Htmls
+  packageType: Html
   supportedOs: All
   sourceCodeLanguage: TypeScript
   developmentStatus: Productized
