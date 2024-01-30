@@ -19,7 +19,7 @@ spec:
   processingPurpose: Task
   protocol: Backstage
   algorithmType: RestAPI
-  packageType: Html
+  packageType: Htmls
   supportedOs: All
   sourceCodeLanguage: TypeScript
   developmentStatus: Productized
