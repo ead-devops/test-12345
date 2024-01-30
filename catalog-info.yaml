@@ -22,6 +22,6 @@ spec:
   packageType: Html
   supportedOs: All
   sourceCodeLanguage: TypeScript
-  developmentStatus: Productized
+  developmentStatus: POC
   linkToProjectPage: Noneas of now
 
