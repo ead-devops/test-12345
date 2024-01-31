@@ -13,7 +13,7 @@ spec:
   lifecycle: experimental
   projectInfo:
     name: Test-12345
-    moduleName: NM
+    moduleName: EAD
     informationAuthor: Selva
     modality: CT
     bodyParts: Brain
