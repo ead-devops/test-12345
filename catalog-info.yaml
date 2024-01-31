@@ -11,7 +11,7 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
-  ProjectInfo:
+  projectInfo:
     name: Test-12345
     moduleName: EAD
     informationAuthor: Selva
