@@ -14,7 +14,7 @@ spec:
   name: Test-12345
   moduleName: EAD
   informationAuthor: Selva
-  modality: MR
+  modality: PET
   bodyParts: Brain
   processingPurpose: Task
   protocol: Backstage
