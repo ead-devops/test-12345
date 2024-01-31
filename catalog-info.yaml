@@ -11,17 +11,18 @@ spec:
   type: service
   owner: user:guest
   lifecycle: experimental
-  name: Test-12345
-  moduleName: EAD
-  informationAuthor: Selva
-  modality: PET
-  bodyParts: Brain
-  processingPurpose: Task
-  protocol: Backstage
-  algorithmType: RestAPI
-  packageType: Html
-  supportedOs: All
-  sourceCodeLanguage: TypeScript
-  developmentStatus: POC
-  linkToProjectPage: Noneas of now
+  ProjectInfo:
+    name: Test-12345
+    moduleName: EAD
+    informationAuthor: Selva
+    modality: PET
+    bodyParts: Brain
+    processingPurpose: Task
+    protocol: Backstage
+    algorithmType: RestAPI
+    packageType: Html
+    supportedOs: All
+    sourceCodeLanguage: TypeScript
+    developmentStatus: POC
+    linkToProjectPage: Noneas of now
 
