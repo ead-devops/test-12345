@@ -14,7 +14,7 @@ spec:
   projectInfo:
     name: Test-12345
     moduleName: EAD
-    informationAuthor: Selva
+    informationAuthor: Selvarathinam
     modality: CT
     bodyParts: Brain
     processingPurpose: Task
